@@ -5,3 +5,6 @@ This program uses the webcam to detect motion. When the program is ran it takes 
 
 First Frame
 ![](firstFrame.png)
+
+When motion detected
+![](motion.png)
